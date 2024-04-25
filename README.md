@@ -1,1 +1,1 @@
-# P5.js-drawing with rect
+# P5.js-drawing with rectangle
